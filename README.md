@@ -1,4 +1,4 @@
-# Encryption-Decryption-SI2023_Practica3_GrupoN
+# SI2023_Practica3_GrupoN
 ## 👤 Collaborators
 
 |          **Name**           | **Mails** |
