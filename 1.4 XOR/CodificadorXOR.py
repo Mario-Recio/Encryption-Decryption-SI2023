@@ -17,8 +17,8 @@ for caracter in mensaje:
 
     #Convertimos el valor conseguido a un caracter y se añadimos a texto_solucion
     texto_solucion += chr(valor_xor)
-    
-    #Añadimos una posición a nestro indice para que en el proximo bucle
+
+    #Añadimos una posición a nestro indice para que en el proximo ciclo del bucle
     #coja el siguiente caracter de clave
     indice_clave += 1
 
