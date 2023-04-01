@@ -21,7 +21,7 @@ for caracter in mensaje:
     posicion = (valor_caracter - limite - desplazamiento) % longitud_alfabeto
     texto_cifrado += alfabeto_a_usar[posicion]
 
-print("El mensaje codificado es:")
+print("El mensaje descodificado es:")
 print(texto_cifrado)
 
 
